@@ -684,7 +684,7 @@ p {
 }
 
 .purchase {
-    background: url(http://localhost:3000/assets/back_pic.png) repeat;
+    background: url(/assets/back_pic.png) repeat;
 		background-color: rgba(139, 137, 137, 1.0);
     background-attachment: fixed;
     padding: 100px 0;
@@ -698,7 +698,7 @@ p {
 }
 
 .introduction {
-	background: url(http://localhost:3000/assets/privacy.jpg) no-repeat;
+	background: url(/assets/privacy.jpg) no-repeat;
 	background-color: rgba(205, 10, 10, 1.0);
 	background-attachment: fixed;
 	padding: 100px 0;
